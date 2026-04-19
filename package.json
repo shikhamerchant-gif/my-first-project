@@ -1,0 +1,26 @@
+{
+  "name": "my-first-project",
+  "version": "1.0.0",
+  "description": "Learning\r I am making a web application \r this is my first commit",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shikhamerchant-gif/my-first-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/shikhamerchant-gif/my-first-project/issues"
+  },
+  "homepage": "https://github.com/shikhamerchant-gif/my-first-project#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "pg": "^8.20.0",
+    "prisma": "^7.7.0"
+  }
+}
